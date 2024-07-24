@@ -1,0 +1,15 @@
+{
+  "name": "api-integracion-notion",
+  "version": "1.0.0",
+  "description": "Api para agregar notas a notion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Buendia",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^2.2.15",
+    "express": "^4.19.2"
+  }
+}
